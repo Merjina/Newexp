@@ -1,1 +1,2 @@
 branch A added 
+b Added second line
