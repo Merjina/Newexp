@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 branch A added 
 b Added second line
+=======
+ branch a added successfully
+ branch A Added...
+ b added A added third line 
+>>>>>>> 9a6fbb20f1e2b3291938ea6fb8fc95c6d76526ca
+new line added
